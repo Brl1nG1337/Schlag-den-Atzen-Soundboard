@@ -1,0 +1,113 @@
+[
+  {
+    "id": "moon_distance",
+    "question": "Wie weit ist der Mond durchschnittlich von der Erde entfernt?",
+    "answer": "ca. 384.400 km",
+    "explanation": "Die Entfernung schwankt wegen der elliptischen Umlaufbahn des Mondes."
+  },
+  {
+    "id": "sunlight_travel_time",
+    "question": "Wie lange braucht das Licht von der Sonne bis zur Erde?",
+    "answer": "ca. 8 Minuten und 20 Sekunden"
+  },
+  {
+    "id": "everest_height",
+    "question": "Wie hoch ist der Mount Everest?",
+    "answer": "8.849 Meter",
+    "explanation": "Die offiziell vereinbarte Höhe beträgt 8.848,86 Meter."
+  },
+  {
+    "id": "human_bones",
+    "question": "Wie viele Knochen hat ein erwachsener Mensch normalerweise?",
+    "answer": "206 Knochen"
+  },
+  {
+    "id": "blue_whale_weight",
+    "question": "Wie schwer kann ein ausgewachsener Blauwal ungefähr werden?",
+    "answer": "bis zu etwa 200 Tonnen"
+  },
+  {
+    "id": "first_mobile_call",
+    "question": "In welchem Jahr wurde das erste Gespräch mit einem handgehaltenen Mobiltelefon geführt?",
+    "answer": "1973",
+    "explanation": "Motorola-Ingenieur Martin Cooper führte das Gespräch in New York."
+  },
+  {
+    "id": "earth_circumference",
+    "question": "Wie groß ist der Erdumfang am Äquator?",
+    "answer": "ca. 40.075 km"
+  },
+  {
+    "id": "heartbeats_per_day",
+    "question": "Wie oft schlägt ein menschliches Herz ungefähr an einem Tag?",
+    "answer": "rund 100.000 Mal",
+    "explanation": "Der tatsächliche Wert hängt unter anderem vom Ruhepuls und der Aktivität ab."
+  },
+  {
+    "id": "internet_data_cable",
+    "question": "Welcher Anteil des internationalen Datenverkehrs läuft ungefähr über Unterseekabel?",
+    "answer": "mehr als 95 Prozent"
+  },
+  {
+    "id": "germany_border_length",
+    "question": "Wie lang sind Deutschlands Landesgrenzen insgesamt?",
+    "answer": "ca. 3.900 km"
+  },
+  {
+    "id": "eiffel_tower_steps",
+    "question": "Wie viele Stufen hat der Eiffelturm vom Boden bis zur Spitze?",
+    "answer": "1.665 Stufen",
+    "explanation": "Für Besucher sind nur Teile der Treppenanlage zugänglich."
+  },
+  {
+    "id": "octopus_hearts",
+    "question": "Wie viele Herzen hat ein Oktopus?",
+    "answer": "3 Herzen"
+  },
+  {
+    "id": "first_olympic_games",
+    "question": "In welchem Jahr fanden die ersten Olympischen Spiele der Neuzeit statt?",
+    "answer": "1896",
+    "explanation": "Austragungsort war Athen."
+  },
+  {
+    "id": "average_lifetime_sleep",
+    "question": "Wie viele Jahre seines Lebens verschläft ein Mensch bei acht Stunden Schlaf pro Tag ungefähr?",
+    "answer": "etwa ein Drittel des Lebens, bei 81 Jahren also rund 27 Jahre"
+  },
+  {
+    "id": "mars_day_length",
+    "question": "Wie lange dauert ein Tag auf dem Mars?",
+    "answer": "ca. 24 Stunden und 39 Minuten"
+  },
+  {
+    "id": "earths_inside_sun",
+    "question": "Wie viele Erden würden vom Volumen her ungefähr in die Sonne passen?",
+    "answer": "ca. 1,3 Millionen Erden",
+    "explanation": "Der Durchmesser der Sonne ist etwa 109-mal so groß wie der der Erde. Beim Volumen ergibt sich dadurch ein Verhältnis von ungefähr 1,3 Millionen zu 1."
+  },
+  {
+    "id": "cloud_weight",
+    "question": "Wie viel wiegt eine typische kleine Schönwetterwolke ungefähr?",
+    "answer": "ca. 500 Tonnen",
+    "explanation": "Eine Wolke sieht leicht aus, enthält aber über ein riesiges Volumen verteilt viele Millionen Wassertröpfchen."
+  },
+  {
+    "id": "lightning_temperature",
+    "question": "Wie heiß kann die Luft in einem Blitzkanal ungefähr werden?",
+    "answer": "ca. 30.000 °C",
+    "explanation": "Damit kann die Luft im Blitzkanal kurzfristig ungefähr fünfmal heißer sein als die Oberfläche der Sonne."
+  },
+  {
+    "id": "earths_between_earth_and_moon",
+    "question": "Wie viele Erden könnte man ungefähr nebeneinander zwischen Erde und Mond legen?",
+    "answer": "ca. 30 Erden",
+    "explanation": "Die mittlere Entfernung zum Mond beträgt rund 384.400 km, der Erddurchmesser etwa 12.742 km."
+  },
+  {
+    "id": "seconds_per_year",
+    "question": "Wie viele Sekunden hat ein normales Jahr ungefähr?",
+    "answer": "ca. 31,5 Millionen Sekunden",
+    "explanation": "365 × 24 × 60 × 60 ergibt 31.536.000 Sekunden."
+  }
+]

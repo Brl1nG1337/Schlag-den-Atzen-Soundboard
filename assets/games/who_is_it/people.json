@@ -1,0 +1,67 @@
+[
+  {
+    "id": "michael_jackson",
+    "name": "Michael Jackson",
+    "imageAsset": "assets/games/who_is_it/images/Michael Jackson.jpeg"
+  },
+  {
+    "id": "neymar",
+    "name": "Neymar",
+    "imageAsset": "assets/games/who_is_it/images/Neymar.png"
+  },
+  {
+    "id": "usain_bolt",
+    "name": "Usain Bolt",
+    "imageAsset": "assets/games/who_is_it/images/Usain Bolt.png"
+  },
+  {
+    "id": "rihanna",
+    "name": "Rihanna",
+    "imageAsset": "assets/games/who_is_it/images/Rhianna.png"
+  },
+  {
+    "id": "finley",
+    "name": "Finley",
+    "imageAsset": "assets/games/who_is_it/images/Finley.jpg"
+  },
+  {
+    "id": "franklin_d_roosevelt",
+    "name": "Franklin D. Roosevelt",
+    "imageAsset": "assets/games/who_is_it/images/franklin_d__roosevelt.jpg"
+  },
+  {
+    "id": "freddie_mercury",
+    "name": "Freddie Mercury",
+    "imageAsset": "assets/games/who_is_it/images/freddie_mercury.jpg"
+  },
+  {
+    "id": "leonardo_da_vinci",
+    "name": "Leonardo da Vinci",
+    "imageAsset": "assets/games/who_is_it/images/leonardo_da_vinci.jpg"
+  },
+  {
+    "id": "neil_armstrong",
+    "name": "Neil Armstrong",
+    "imageAsset": "assets/games/who_is_it/images/neil_armstrong.jpg"
+  },
+  {
+    "id": "robert_downey_jr",
+    "name": "Robert Downey Jr.",
+    "imageAsset": "assets/games/who_is_it/images/robert_downey_jr_.jpg"
+  },
+  {
+    "id": "angelo",
+    "name": "Angelo",
+    "imageAsset": "assets/games/who_is_it/images/Angelo.png"
+  },
+  {
+    "id": "mr_bean",
+    "name": "Mr Bean",
+    "imageAsset": "assets/games/who_is_it/images/Mr Bean.png"
+  },
+  {
+    "id": "yakari",
+    "name": "Yakari",
+    "imageAsset": "assets/games/who_is_it/images/yakari.jpeg"
+  }
+]

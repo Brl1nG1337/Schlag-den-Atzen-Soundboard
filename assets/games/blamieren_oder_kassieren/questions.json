@@ -1,0 +1,182 @@
+[
+  {
+    "id": "question_001",
+    "question": "Welches Tier kann nicht rückwärts laufen?",
+    "answer": "Das Känguru",
+    "category": "Tiere"
+  },
+  {
+    "id": "question_002",
+    "question": "Welcher Planet unseres Sonnensystems dreht sich am schnellsten um die eigene Achse?",
+    "answer": "Jupiter",
+    "category": "Naturwissenschaft"
+  },
+  {
+    "id": "question_003",
+    "question": "Wie heißt die Angst vor langen Wörtern scherzhaft?",
+    "answer": "Hippopotomonstrosesquippedaliophobie",
+    "category": "Kurioses"
+  },
+  {
+    "id": "question_004",
+    "question": "Welches Lebensmittel verdirbt praktisch nie, wenn es richtig gelagert wird?",
+    "answer": "Honig",
+    "category": "Alltag"
+  },
+  {
+    "id": "question_005",
+    "question": "Welches Land hat mehr Pyramiden als Ägypten?",
+    "answer": "Sudan",
+    "category": "Geografie"
+  },
+  {
+    "id": "question_006",
+    "question": "Wie viele Herzen hat ein Oktopus?",
+    "answer": "Drei",
+    "category": "Tiere"
+  },
+  {
+    "id": "question_007",
+    "question": "Welche Farbe hat die sogenannte Black Box in einem Flugzeug normalerweise?",
+    "answer": "Orange",
+    "category": "Technik"
+  },
+  {
+    "id": "question_008",
+    "question": "Welches Tier besitzt Fingerabdrücke, die menschlichen Fingerabdrücken sehr ähnlich sehen?",
+    "answer": "Der Koala",
+    "category": "Tiere"
+  },
+  {
+    "id": "question_009",
+    "question": "Was ist schwerer: ein Kilogramm Federn oder ein Kilogramm Eisen?",
+    "answer": "Beides ist gleich schwer",
+    "category": "Logik"
+  },
+  {
+    "id": "question_010",
+    "question": "Welches Tier ist auf dem Logo der Automarke Ferrari zu sehen?",
+    "answer": "Ein Pferd",
+    "category": "Alltag"
+  },
+  {
+    "id": "question_011",
+    "question": "Welcher Buchstabe kommt in keinem chemischen Elementsymbol des Periodensystems vor?",
+    "answer": "J",
+    "category": "Naturwissenschaft"
+  },
+  {
+    "id": "question_012",
+    "question": "Wie viele Monate haben mindestens 28 Tage?",
+    "answer": "Alle zwölf",
+    "category": "Logik"
+  },
+  {
+    "id": "question_013",
+    "question": "Welche Frucht trägt ihre Samen außen auf der Oberfläche?",
+    "answer": "Die Erdbeere",
+    "category": "Naturwissenschaft"
+  },
+  {
+    "id": "question_014",
+    "question": "Welches Tier kann länger ohne Wasser auskommen als ein Kamel?",
+    "answer": "Die Kängururatte",
+    "category": "Tiere"
+  },
+  {
+    "id": "question_015",
+    "question": "Wie heißt der einzige Kontinent, auf dem keine heimischen Ameisenarten leben?",
+    "answer": "Antarktika",
+    "category": "Geografie"
+  },
+  {
+    "id": "question_016",
+    "question": "Welche bekannte Videospielfigur hieß ursprünglich Jumpman?",
+    "answer": "Mario",
+    "category": "Gaming"
+  },
+  {
+    "id": "question_017",
+    "question": "Welches Tier hat die größten Augen im Tierreich?",
+    "answer": "Der Riesenkalmar",
+    "category": "Tiere"
+  },
+  {
+    "id": "question_018",
+    "question": "Was war zuerst da: die Universität Oxford oder das Aztekenreich?",
+    "answer": "Die Universität Oxford",
+    "category": "Geschichte"
+  },
+  {
+    "id": "question_019",
+    "question": "Welcher berühmte Physiker lehnte das Angebot ab, Präsident von Israel zu werden?",
+    "answer": "Albert Einstein",
+    "category": "Geschichte"
+  },
+  {
+    "id": "question_020",
+    "question": "Welches Säugetier kann als einziges wirklich aktiv fliegen?",
+    "answer": "Die Fledermaus",
+    "category": "Tiere"
+  },
+  {
+    "id": "question_021",
+    "question": "Welche Fast-Food-Kette besitzt den Clown Ronald McDonald als bekannte Werbefigur?",
+    "answer": "McDonald's",
+    "category": "Popkultur"
+  },
+  {
+    "id": "question_022",
+    "question": "Welche Zahl ist die einzige Zahl, deren ausgeschriebener deutscher Name genauso viele Buchstaben hat wie ihr Wert?",
+    "answer": "Vier",
+    "category": "Sprache"
+  },
+  {
+    "id": "question_023",
+    "question": "Welcher Planet würde theoretisch auf Wasser schwimmen, wenn man ein ausreichend großes Becken hätte?",
+    "answer": "Saturn",
+    "category": "Naturwissenschaft"
+  },
+  {
+    "id": "question_024",
+    "question": "Welche Stadt wird wegen ihrer vielen Kanäle häufig als schwimmende Stadt bezeichnet?",
+    "answer": "Venedig",
+    "category": "Geografie"
+  },
+  {
+    "id": "question_025",
+    "question": "Welches bekannte Brettspiel hieß ursprünglich The Landlord's Game?",
+    "answer": "Monopoly",
+    "category": "Spiele"
+  },
+  {
+    "id": "question_026",
+    "question": "Welches Tier kann mit seiner Zunge seine eigenen Ohren reinigen?",
+    "answer": "Die Giraffe",
+    "category": "Tiere"
+  },
+  {
+    "id": "question_027",
+    "question": "Was wird größer, je mehr man davon wegnimmt?",
+    "answer": "Ein Loch",
+    "category": "Logik"
+  },
+  {
+    "id": "question_028",
+    "question": "Welches berühmte Getränk wurde ursprünglich als Arzneimittel verkauft?",
+    "answer": "Coca-Cola",
+    "category": "Kurioses"
+  },
+  {
+    "id": "question_029",
+    "question": "Welcher menschliche Körperteil hat keine direkte Blutversorgung?",
+    "answer": "Die Hornhaut des Auges",
+    "category": "Menschlicher Körper"
+  },
+  {
+    "id": "question_030",
+    "question": "Welches Land hat als einziges eine Nationalflagge, die nicht rechteckig ist?",
+    "answer": "Nepal",
+    "category": "Geografie"
+  }
+]
